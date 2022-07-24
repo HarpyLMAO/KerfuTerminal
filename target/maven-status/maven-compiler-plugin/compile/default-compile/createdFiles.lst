@@ -1,0 +1,3 @@
+net\kerfu\terminal\rabbit\RabbitService.class
+net\kerfu\terminal\mongo\MongoConnector.class
+net\kerfu\terminal\Terminal.class
